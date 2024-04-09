@@ -1,6 +1,8 @@
 [submodule "child1"]
 	path = child1
 	url = git@github.com:FenixDeveloper/submodule-child1.git
+	branch = dev
 [submodule "child2"]
 	path = child2
 	url = git@github.com:FenixDeveloper/submodule-child2.git
+	branch = dev
